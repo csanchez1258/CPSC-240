@@ -1,0 +1,13 @@
+
+Welcome to Gravitational Attraction maintained by Christian Sanchez.
+This program was last updated on February 24, 2022If errors are discovered please report them to Christian at christiansanchez1258@gmail.com for a rapid update. At Columbia, Inc,the customer comes first.
+
+Please enter your first and last name: Christian Sanchez
+The number of characters in your name is 17
+Thank you its nice to meet you, Christian Sanchez. We understand that you plan to drop a marble from a high vantage point.
+Please enter the height of the marble above the ground surface in meters: 12.32
+Here is your number: 12.32
+A drop from a height of 12.320000, will take 1.585650 seconds to drop.
+
+The driver module recieved this integer: 0
+End of demonstration test.
