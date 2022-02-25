@@ -158,7 +158,7 @@ je  	  tryAgain			;go to the tryAgain block
 mov 	  rax, 1
 mov 	  rdi, user_float
 call 	  atof
-movsd	  xmm15, xmm0			;now mov the number from atof to somewhere stable -> xmm9
+movsd	  xmm15, xmm0			;now mov the number from atof to somewhere stable -> xmm15
 jmp 	  continue			;go to the continue block
 
 tryAgain:
